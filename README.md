@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**pedrooot/pedrooot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro Martín, a Cloud Security Engineer and Developer from 🇪🇸.
 
-Here are some ideas to get you started:
+🔒  Currently working at [Prowler](https://prowler.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 [Prowler OSS](https://github.com/prowler-cloud/prowler) maintainer.
+
+<p>
+   <a href="https://www.linkedin.com/in/pedro-martin-gon/">
+     <img src="https://img.shields.io/badge/-@pedromartingonzalez-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/pedro-martin-gon/" alt="LinkedIn Badge">
+  </a>
+    <a href="https://github.com/pedrooot">
+    <img height="20" src="https://img.shields.io/github/followers/pedrooot?label=follow&logo=github&style=flat-square" />
+  </a>
+</p>
